@@ -1,74 +1,57 @@
 {
-  "users": [
+  "priceList": [
     {
-      "id": 1,
-      "first_name": "Justina",
-      "last_name": "Ginglell",
-      "email": "jginglell0@networkadvertising.org",
-      "gender": "Female"
+      "id":"1",
+      "title":"GENTS",
+      "To cut": "€23.00",
+      "Wash and cut": "€29.00",
+      "Trim beard": "€5.00",
+      "Children up to 10 years": "€17.00"
+    }, 
+    {
+      "id":"2",
+      "title":"LADIES",
+      "To cut": "from € 26.00",
+      "Wash and cut": "from € 32.00",
+      "Wash, cut and style": "from € 37.00",
+      "Wash, cut and blow dry": "from € 49.00",
+      "Wash and blow dry": "from € 23.50",
+      "Paint outgrowth": "from € 48.00"
     },
     {
-      "id": 2,
-      "first_name": "Marion",
-      "last_name": "Jenman",
-      "email": "mjenman1@surveymonkey.com",
-      "gender": "Male"
+      "id":"3",
+      "title":"BABY, TONER, OLAPLEX",
+      "Short hair": "€125.00",
+      "Medium length hair": "€175.00",
+      "Long hair": "€190.00"
     },
     {
-      "id": 3,
-      "first_name": "Alfy",
-      "last_name": "Begin",
-      "email": "abegin2@list-manage.com",
-      "gender": "Female"
+      "id":"4",
+      "title":"SCALP HIGHLIGHTS",
+      "Short hair": "€49.00",
+      "Medium length hair": "from € 62.00",
+      "Long hair": "from € 72.00"
     },
     {
-      "id": 4,
-      "first_name": "Karney",
-      "last_name": "Zanussii",
-      "email": "kzanussii3@hao123.com",
-      "gender": "Male"
+      "id":"5",
+      "title":"FULL HIGHLIGHTS",
+      "Short hair": "€59.00",
+      "Medium length hair": "€74.00",
+      "Long hair": "€87.00"
     },
     {
-      "id": 5,
-      "first_name": "Reid",
-      "last_name": "Schapero",
-      "email": "rschapero4@timesonline.co.uk",
-      "gender": "Male"
+      "id":"6",
+      "title":"PARMANENT",
+      "Short hair": "€45.00",
+      "Medium length hair": "€59.00",
+      "Long hair": "€79.00"
     },
     {
-      "id": 6,
-      "first_name": "Dorine",
-      "last_name": "Braybrookes",
-      "email": "dbraybrookes5@gov.uk",
-      "gender": "Female"
-    },
-    {
-      "id": 7,
-      "first_name": "Sarena",
-      "last_name": "Frape",
-      "email": "sfrape6@alexa.com",
-      "gender": "Female"
-    },
-    {
-      "id": 8,
-      "first_name": "Malva",
-      "last_name": "Pierse",
-      "email": "mpierse7@usda.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 9,
-      "first_name": "Rania",
-      "last_name": "Dablin",
-      "email": "rdablin8@state.gov",
-      "gender": "Female"
-    },
-    {
-      "id": 10,
-      "first_name": "Ingrim",
-      "last_name": "Offen",
-      "email": "ioffen9@slideshare.net",
-      "gender": "Male"
+      "id":"7",
+      "title":"OLAPLEX",
+      "Olaplex treatment": "€35.00",
+      "Surcharge thick hair": "from € 25,-"
     }
   ]
 }
+ 
